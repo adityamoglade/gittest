@@ -1,1 +1,1 @@
-## this is the git tutorial  adityaS
+## this is the git tutorial  aditya moglade

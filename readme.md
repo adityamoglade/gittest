@@ -1,1 +1,1 @@
-## this is the git tutorial  aditya moglade
+## this is the git tutorial  aditya moglade data analyst
